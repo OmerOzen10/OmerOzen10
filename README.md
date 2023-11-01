@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omer Faruk Ozen</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Computer Engineering Student, Android Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
