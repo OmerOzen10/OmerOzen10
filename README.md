@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/baronomer10" target="blank"><img src="https://img.shields.io/twitter/follow/baronomer10?logo=twitter&style=for-the-badge" alt="baronomer10" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript,HTML,CSS**
+- 🌱 I’m currently learning **Kotlin**
 
 - 💬 Ask me about **Android,Java**
 
