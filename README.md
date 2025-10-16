@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 💬 Ask me about **Android,Java**
+- 💬 Ask me about **Android,Kotlin and Jetpack Compose**
 
 - 📫 How to reach me **omerfaruko423@gmail.com**
 
