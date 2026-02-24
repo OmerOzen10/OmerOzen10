@@ -15,7 +15,7 @@ Software Developer with experience across mobile, frontend, and backend developm
 Actively contributing to production-level systems at:
 
 - **Sadakart**
-- **Aytivada**
+- **Aytiva**
 
 Focused on building scalable, maintainable, and performance-oriented applications across multiple platforms including web, iOS, and Android.
 
