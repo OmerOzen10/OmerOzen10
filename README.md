@@ -2,6 +2,11 @@
 <h3 align="center">Software Developer | Full-Stack & Mobile Engineer</h3>
 
 <p align="center">
+  📍 Warsaw, Poland <br/>
+  🎓 B.Sc. in Computer Engineering
+</p>
+
+<p align="center">
   <a href="mailto:omerfaruko423@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
@@ -15,21 +20,20 @@
 
 ---
 
-## 🏢 Professional Overview
+## 🏢 Professional Experience
 
-Software Developer experienced in **frontend, backend, and mobile ecosystems**.  
-Currently contributing to production systems at:
+Currently contributing to production-level systems at:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Sadakart-Production%20Systems-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Aytiva-Enterprise%20Solutions-111111?style=for-the-badge" />
+  <a href="https://sadakart.net" target="_blank">
+    <img src="https://img.shields.io/badge/Sadakart-Visit%20Website-0A66C2?style=for-the-badge" />
+  </a>
+  <a href="https://www.aytiva.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Aytiva-Visit%20Website-111111?style=for-the-badge" />
+  </a>
 </p>
 
-Focused on building scalable, maintainable, and performance-oriented applications across:
-
-- Web Platforms  
-- iOS Applications  
-- Android Applications  
+Working on scalable web, mobile, and backend systems with a focus on performance, maintainability, and production-ready architecture.
 
 ---
 
@@ -70,15 +74,16 @@ Focused on building scalable, maintainable, and performance-oriented application
 
 ---
 
-## 🎯 Core Strengths
+## 🎯 Core Competencies
 
-- Cross-platform system development  
-- Scalable backend API design  
-- Clean & modular architecture  
-- Production-ready deployment mindset  
+- Cross-platform application development  
+- RESTful API architecture  
+- Scalable backend systems  
+- Clean & modular codebase design  
+- Production deployment mindset  
 
 ---
 
 <p align="center">
-  <b>Building scalable systems across platforms.</b>
+  <b>Building scalable systems across web and mobile platforms.</b>
 </p>
